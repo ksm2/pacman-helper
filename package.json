@@ -1,0 +1,14 @@
+{
+  "name": "pacman-helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.18",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  }
+}
